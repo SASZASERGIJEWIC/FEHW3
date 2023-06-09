@@ -1,0 +1,20 @@
+body{
+    padding: 20px;
+    font-size: 250%;
+    line-height: 60px;
+}
+a {
+    text-decoration: none;
+}
+.first:hover {
+    text-decoration: underline;
+    color: rgb(214, 79, 17);
+}
+.second:hover {
+    text-decoration: line-through;
+    color: rgb(17, 99, 214);
+}
+.third:hover {
+    text-decoration: overline;
+    color: rgb(21, 146, 12);
+}
